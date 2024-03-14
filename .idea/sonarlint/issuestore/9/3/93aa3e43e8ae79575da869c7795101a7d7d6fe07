@@ -1,0 +1,7 @@
+
+l	java:S106"+Replace this use of System.out by a logger.(æƒ‚8ÅÁÊõã1J$f44159bd-b0ff-40d8-a624-96b1af0cacd9
+r	java:S106""+Replace this use of System.out by a logger.(ĞÓ”üÿÿÿÿ8ÊÁÊõã1J$efbce20f-6bcc-4947-997a-a35144df10c2
+m	java:S106*"+Replace this use of System.out by a logger.(µ•´¡8µÁÏõã1J$2bba4dac-18d4-4f27-8bb2-4cf9fb6febde
+m	java:S106+"+Replace this use of System.out by a logger.(œÏ¾Ñ8µÁÏõã1J$fe69c5e0-0831-4394-b24f-d4d43c521d39
+‰
+java:S1128"ARemove this unused import 'org.example.elements.MaxSalaryWorker'.( Ä–ııÿÿÿÿ8¦†äõã1J$14be4ec9-82b6-41c2-8d99-a1041a677690

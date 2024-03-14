@@ -1,0 +1,18 @@
+
+
+java:S1192&"IDefine a constant instead of duplicating this literal "birthday" 3 times.(λΜΟΡ8–•υγ1J$cf002ea9-8a07-432f-8eba-ed6306733b23
+x
+java:S1141="5Extract this nested try block into a separate method.(³±΅8•υγ1J$9a2a07fd-95b6-432d-93a8-360321a6980e
+l	java:S106"+Replace this use of System.out by a logger.(ζƒ‚8Ό•υγ1J$5128bcbe-cb75-4c89-ad1a-8271de7b5e44
+r	java:S106)"+Replace this use of System.out by a logger.(΄«’Ϋψÿÿÿÿ8Ώ•υγ1J$ac7db333-49f1-453b-a497-b1f3f785bb2e
+r	java:S1064"+Replace this use of System.out by a logger.(΄«’Ϋψÿÿÿÿ8Β•υγ1J$9e8f3be2-9ce3-4883-830a-513f0a1dca8e
+r	java:S106C"+Replace this use of System.out by a logger.(ΠΣ”όÿÿÿÿ8Η•υγ1J$6c82160d-2cfa-4f64-9855-46ce30c24ec1
+r	java:S106F"+Replace this use of System.out by a logger.(ΠΣ”όÿÿÿÿ8Η•υγ1J$8db33a0b-74c0-4cbf-bf46-0be04f72c4fe
+r	java:S106M"+Replace this use of System.out by a logger.(Π½μΣÿÿÿÿÿ8Κ•υγ1J$84b13c57-bde2-4e7d-bb18-7868b6da9799
+r	java:S106N"+Replace this use of System.out by a logger.( ¨ªϊÿÿÿÿ8Κ•υγ1J$15265b03-a401-4956-9a82-e1fb59c8a5fe
+m	java:S106P"+Replace this use of System.out by a logger.(ΠΘύΗ8Κ•υγ1J$8c8aa307-0dd5-4b16-b9b2-010ead08d524
+m	java:S106Q"+Replace this use of System.out by a logger.(τ¦δ8Κ•υγ1J$513ca8f8-9c6b-4890-9e9a-6055daadb6b7
+r	java:S106S"+Replace this use of System.out by a logger.(γ«†¤ÿÿÿÿÿ8Μ•υγ1J$cdbada0f-dc9d-47b6-b063-07adc03f69c3
+r	java:S106T"+Replace this use of System.out by a logger.(ΏΫ―ιÿÿÿÿÿ8Μ•υγ1J$63e5a6bc-ff42-4be3-83eb-f98628a8855f
+‰
+java:S1128"ARemove this unused import 'org.example.elements.MaxSalaryWorker'.( Δ–ύύÿÿÿÿ8¬Η¤υγ1J$ca178378-b880-4fb9-be68-84a0211eb487
